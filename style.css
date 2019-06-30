@@ -1,0 +1,28 @@
+body { 
+    color: #3D3129;
+}
+
+.content {
+    max-width: 450px;
+    margin: 25px auto;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+p {
+/*    font-family: serif;*/
+    font-family: Georgia;
+/*    background: green;*/
+    line-height: 1.3;
+    margin-left: 1.3em;
+    margin-right: 1.3em;
+}
+
+.commonest-words {
+    word-spacing: 30px;
+    text-align: center;
+    font-size: 1.125em;
+    line-height: 1.6;
+}
